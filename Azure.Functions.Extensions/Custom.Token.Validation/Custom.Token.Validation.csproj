@@ -12,7 +12,7 @@
 		<Product>Az.Functions.JwtCustomHandler</Product>
 		<Copyright>Nor Gelera 2020</Copyright>
 		<PackageReleaseNotes>Fix an issue with incorrect values retrieved from HttpRequestData.Headers</PackageReleaseNotes>
-		<PackageProjectUrl>https://github.com/kuromukira/azure-functions-jwt-validation-extension</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/norarrsgd/azure-functions-jwt-validation-extension</PackageProjectUrl>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
 		<Description>A custom access token validation provider for Azure Functions via Dependency Injection. Inspired by https://github.com/BenMorris/FunctionsCustomSercuity with extra implementation for Firebase Auth.</Description>
 		<Version>2.1.0</Version>
